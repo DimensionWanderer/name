@@ -1,6 +1,5 @@
-Welcome to my Prje thiehfefheufeifuiect
+Welcome to the project named : "Git for Beginners"
 
-
-author name is Abdussamad  m raeen
-jdkdkd f
-my twiiter handles
+Author : Abdussamad Raeen 
+Instagram : abdussamad_r
+website: none
